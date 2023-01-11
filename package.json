@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://github.com/eannaccarato/js-portfolio.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Esequiel Annaccarato <eannaccarato@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://github.com/eannaccarato/js-portfolio/issues"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://github.com/eannaccarato/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/plugin-transform-runtime": "^7.19.6",
